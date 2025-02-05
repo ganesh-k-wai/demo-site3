@@ -1,0 +1,113 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 50px;
+  width: 100%;
+  /* border: 1px solid blue; */
+  position: relative;
+}
+
+.headerimg {
+  width: 7%;
+  height: 100%;
+  /* border: 1px solid red; */
+  background-color: bisque;
+
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.headerContent {
+  height: 100%;
+  width: 93%;
+  background-color: bisque;
+  display: inline-block;
+  position: absolute;
+  overflow: hidden;
+  padding: 12px 10px;
+}
+.banner {
+  height: 300px;
+  /* width: 100%; */
+  background-image: url("banner.jpg");
+  background-size: 100% 100%;
+  padding: 0;
+}
+
+.maincontent {
+  width: 80%;
+  height: 400px;
+  /* border: 2px solid black; */
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 20px auto;
+}
+.maincontent-1 {
+  width: 40%;
+  /* border: 1px solid red; */
+  height: 100%;
+  padding: 0px 10px;
+  display: flex;
+  box-sizing: border-box;
+  float: left;
+  text-align: justify;
+  overflow: hidden;
+}
+.maincontent-2 {
+  width: 40% !important;
+  /* border: 1px solid red; */
+  height: 100%;
+  box-sizing: border-box;
+  float: left;
+  background-image: url("../../Photos/download.jfif");
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.tablle {
+  width: 50%;
+  /* border: 1px solid red; */
+  margin: auto auto;
+}
+.tablle table {
+  border-collapse: collapse;
+  justify-content: center;
+}
+
+.tablle table tr th,
+td {
+  padding: 10px;
+}
+
+.tablle table tr:nth-child(even) {
+  background-color: lightblue;
+}
+
+.formm {
+  margin: 10px auto;
+}
+.formm .form-group {
+  margin: 10px 10px;
+}
+.formm input,
+select {
+  font-size: 18px;
+}
+
+.form-group button {
+  background-color: rgb(59, 130, 246);
+  padding: 10px 45px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.formm select option {
+  background-color: black;
+  color: white;
+}
