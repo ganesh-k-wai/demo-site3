@@ -1,0 +1,73 @@
+04-02-2025 15:24:27 - StartAsync RegisterClientId L
+
+04-02-2025 15:24:27 - in TrigerSignalRServerUserStatus
+
+04-02-2025 15:24:27 - endregion SignalRConn null TrigerSignalRServerUserStatus
+
+04-02-2025 15:24:28 - TrigerSignalRServerUserStatus
+
+04-02-2025 15:24:28 - Signal R status send
+
+04-02-2025 15:54:17 - TrigerSignalRServerUserStatus
+
+04-02-2025 15:57:29 - TrigerSignalRServerUserStatus
+
+04-02-2025 16:06:04 - TrigerSignalRServerUserStatus
+
+04-02-2025 16:18:40 - TrigerSignalRServerUserStatus
+
+04-02-2025 16:26:00 - TrigerSignalRServerUserStatus
+
+04-02-2025 17:11:33 - TrigerSignalRServerUserStatus
+
+04-02-2025 17:12:13 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:05:34 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:05:44 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:09:55 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:11:14 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:18:25 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:20:35 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:23:35 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:25:05 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:32:46 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:36:25 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:49:56 - TrigerSignalRServerUserStatus
+
+04-02-2025 18:51:28 - TrigerSignalRServerUserStatus
+
+04-02-2025 19:06:24 - System is shutting down or user is logging off.4 Form1_FormClosingAsync
+
+05-02-2025 09:24:12 - StartAsync RegisterClientId L
+
+05-02-2025 09:24:12 - in TrigerSignalRServerUserStatus
+
+05-02-2025 09:24:12 - endregion SignalRConn null TrigerSignalRServerUserStatus
+
+05-02-2025 09:24:12 - TrigerSignalRServerUserStatus
+
+05-02-2025 09:24:12 - Signal R status send
+
+05-02-2025 10:07:38 - TrigerSignalRServerUserStatus
+
+05-02-2025 19:16:24 - System is shutting down or user is logging off.4 Form1_FormClosingAsync
+
+06-02-2025 09:25:47 - StartAsync RegisterClientId L
+
+06-02-2025 09:25:47 - in TrigerSignalRServerUserStatus
+
+06-02-2025 09:25:47 - endregion SignalRConn null TrigerSignalRServerUserStatus
+
+06-02-2025 09:26:33 - TrigerSignalRServerUserStatus
+
+06-02-2025 09:26:33 - Signal R status send
