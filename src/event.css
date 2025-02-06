@@ -1,0 +1,30 @@
+
+
+*{
+    background-color: antiquewhite;
+}
+.formm {
+    margin: 10px auto;
+  }
+  .formm .form-group {
+    margin: 10px 10px;
+  }
+  .formm input,
+  select {
+    font-size: 18px;
+  }
+  
+  .form-group button {
+    background-color: rgb(59, 130, 246);
+    padding: 10px 45px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .formm select option {
+    background-color: black;
+    color: white;
+  }
+  
