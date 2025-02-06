@@ -63,7 +63,7 @@
   height: 100%;
   box-sizing: border-box;
   float: left;
-  background-image: url("../../Photos/download.jfif");
+  background-image: url("download.jfif");
   border-radius: 10px;
   padding: 10px;
 }
