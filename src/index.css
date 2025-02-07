@@ -44,13 +44,15 @@
   /* border: 2px solid black; */
   border-radius: 5px;
   box-sizing: border-box;
-  margin: 20px auto;
+  /* transform: translate(200px ); */
+  margin: 10px auto;
 }
 .maincontent-1 {
-  width: 40%;
+  width: 50%;
   /* border: 1px solid red; */
+
   height: 100%;
-  padding: 0px 10px;
+  padding: 20px 20px;
   display: flex;
   box-sizing: border-box;
   float: left;
@@ -58,14 +60,16 @@
   overflow: hidden;
 }
 .maincontent-2 {
-  width: 40% !important;
   /* border: 1px solid red; */
+  width: 50%;
   height: 100%;
   box-sizing: border-box;
   float: left;
   background-image: url("download.jfif");
+  background-repeat: no-repeat;
+  background-size: 80% 100%;
   border-radius: 10px;
-  padding: 10px;
+  padding: 30px;
 }
 
 .tablle {
@@ -76,6 +80,7 @@
 .tablle table {
   border-collapse: collapse;
   justify-content: center;
+  width: 100%;
 }
 
 .tablle table tr th,
@@ -93,15 +98,24 @@ td {
 .formm .form-group {
   margin: 10px 10px;
 }
+.formm label {
+  font-weight: bold;
+  color: blue;
+}
 .formm input,
+textarea,
 select {
-  font-size: 18px;
+  font-size: 20px;
+  width: 50%;
+  font-weight: lighter;
+  text-align: center;
 }
 
 .form-group button {
   background-color: rgb(59, 130, 246);
   padding: 10px 45px;
   border-radius: 10px;
+  font-size: 18px;
   border: none;
   color: white;
   font-family: "Times New Roman", Times, serif;
