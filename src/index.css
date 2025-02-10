@@ -30,6 +30,17 @@
   overflow: hidden;
   padding: 12px 10px;
 }
+
+.marq {
+  /* margin: 100px; */
+}
+.marq marquee {
+  width: 100%;
+  color: whitesmoke;
+  background-color: brown;
+  font-size: 20px;
+}
+
 .banner {
   height: 300px;
   /* width: 100%; */
@@ -124,4 +135,14 @@ select {
 .formm select option {
   background-color: black;
   color: white;
+}
+
+.frame {
+  width: 100%;
+  margin: 10px 20px;
+}
+.frame iframe {
+  padding: 10px 10px;
+  outline: 10px outset red;
+  margin: 10px 10px;
 }
